@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "docusaurus-start"
+  },
+  "devDependencies": {
+    "docusaurus": "git+https://github.com/facebook/Docusaurus.git#75538395beb3bcd7591f586877d5971c51d4f5db"
+  }
+}
